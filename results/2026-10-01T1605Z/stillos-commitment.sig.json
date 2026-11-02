@@ -1,0 +1,10 @@
+{
+  "alg": "ed25519",
+  "signed_file": "stillos-commitment.json",
+  "signed_file_sha256": "25c314044b951a1289b85375ff1c26de36d9539e48c6869ada756b469c853994",
+  "domain": "mcpship-stillos-joint-window/v1/commitment",
+  "key_fingerprint": "21de066900082465",
+  "signing_keys_url": "https://stillosdigitalholdings.com/notary/keyring",
+  "signature": "efVW3rmYJ0X8Inz6+Hsj0mFScrKzIoSufe86SA3QIc4eorGPXqvO/biXKwQx7zOe6NDohHHZfTrl2TwtazA7Bg==",
+  "proves": "the holder of this key produced these exact bytes — NOT that the counts are correct, NOT that a sweep ran, NOT when the file was created"
+}

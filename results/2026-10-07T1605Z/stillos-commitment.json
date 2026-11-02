@@ -1,0 +1,9 @@
+{
+  "label": "mcpship-joint-20261007",
+  "window_started_utc": "2026-10-07T16:05:04.101Z",
+  "window_finished_utc": "2026-10-07T16:33:10.726Z",
+  "commitment_scheme": "sha256(nonce_hex || canonical_json(record_body))",
+  "commitment_sha256": "dc8a2ca6ec6f4fe59760be08814958d4e90c8e01adbc22e56c4d224bacef2e54",
+  "reveals": "the five agreed fields, status split, canonical-names digest and execution provenance",
+  "note": "Publish this digest alone. Reveal the record and nonce only after both sides have published a commitment."
+}
